@@ -24,9 +24,8 @@ Salut ! Je suis **[Théo]**, un(e) passionné(e) de **[Développement]** basé(e
 
 
 ## 📊 Mes Stats GitHub
-*(Visible uniquement si tu l'utilises sur ton profil GitHub Personnel)*
 
-![Stats de [xSpartaa]](https://github-readme-stats.vercel.app/api?username=[xSpartaa]&show_icons=true&theme=radical)
+![Stats de [xSpartaa]](https://github-readme-stats.vercel.app/api?username=xSpartaa&show_icons=true&theme=radical)
 
 ---
 
