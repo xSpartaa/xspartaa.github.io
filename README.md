@@ -7,8 +7,6 @@
 
 Salut ! Je suis **[Théo]**, un(e) passionné(e) de **[Développement]** basé(e) à **[Orléans]**.
 
-> "[Une petite phrase qui définit ta philosophie de travail ou une citation qui t'inspire]"
-
 * 🔭 Je travaille actuellement sur : **[Everdale]**
 * 🌱 J'apprends en ce moment : **[Rust]**
 
